@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+.correct {
+    color: green;
+}
+.incorrect {
+    color: red;
+}
